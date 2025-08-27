@@ -57,7 +57,7 @@ export default function CompletionScreen({ idNumber, month, entriesCount, onRese
         {/* Timestamp Confirmation */}
         <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 mb-6">
           <p className="text-blue-800 text-sm">
-            ✅ Timestamp recorded to tracking spreadsheet (KW-07 sheet)
+            ✅ Timestamp recorded to tracking spreadsheet (KW-06 sheet)
           </p>
         </div>
 
